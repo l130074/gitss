@@ -10,7 +10,7 @@ public class FristTest {
     }
 
     public void Test(){
-        int i=10;
+        int i=0;
         i +=10;
     }
 }
